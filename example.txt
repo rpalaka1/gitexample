@@ -2,4 +2,6 @@ This is first notepad created to view git
 
 modifying txt file
 
-changing rajesh palaka
+changes by prasuna
+
+Dont change my master file.
